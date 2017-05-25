@@ -6,7 +6,6 @@ tags: [intro]
 summary: "SET_ABOUT_SUMMARY"
 sidebar: mydoc_sidebar
 permalink: overview_about.html
-folder: overview
 ---
 
 Tell people what this site is about
